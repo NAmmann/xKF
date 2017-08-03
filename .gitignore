@@ -1,0 +1,5 @@
+# Ignore SVN files
+.svn
+
+# Ignore OS files
+.DS_Store
